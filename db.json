@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 1000,
+      "image": "https://i.ebayimg.com/images/g/w3gAAOSw5-Zjk3Oq/s-l1600.png"
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUPI7IbM5nxO5Fqm4WCrKOZQ7ZgclnmyDHEFbo1iUHvGEHyJ1p1sDoTGGTSNW2yihYD0&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "image": "https://www.protechexperts.co.uk/assets_beta/images/products/galaxy-s10-1655792295.png"
+    },
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "image": "https://api.priceinkenya.com/media/123920/conversions/oppo-f19-6gb128gb-Jg1Qz78dR1-original.webp"
+    },
+    {
+      "id": 5,
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "image": "https://cdn.shopify.com/s/files/1/0707/3609/products/p30-pro-black.png?v=1597052096"
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "image": "https://cdn.vox-cdn.com/thumbor/Jba2eHkQeCWoL4hltB7bdTghmww=/0x0:1534x862/1400x1400/filters:focal(767x431:768x432)/cdn.vox-cdn.com/uploads/chorus_asset/file/22936638/1Rm4aV2YiD.png"
+    },
+    {
+      "id": 7,
+      "title": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099,
+      "image": "https://infinix-staging-s3.s3.ap-south-1.amazonaws.com/media/mucnpu0c/1000x1497_0000s_0002s_0004_3.jpg"
+    },
+    {
+      "id": 8,
+      "title": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "image": "https://www.phone-x.co.ke/wp-content/uploads/2021/06/HP-Pavilion-x360-Convertible.jpg"
+    },
+    {
+      "title": "Hp Envy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZr2L8pZ4NRuiKiQSGc5PsYHXiBzi2J593g&usqp=CAU",
+      "description": "Find a great collection of HP® ENVY Laptops at HP",
+      "price": 151000,
+      "id": 9
+    }
+  ]
+}
